@@ -11,3 +11,7 @@ things:
     - number: 20
     - image: https://upload.wikimedia.org/wikipedia/commons/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg?w=800
     - link: https://en.wikipedia.org/wiki/Espresso
+  potatoes:
+    - number: 8
+    - image: https://s7d2.scene7.com/is/image/ABS/960014416?$ecom-product-details-desktop-jpg$&defaultImage=Not_Available
+    - link: https://shop.safeway.com/product-details.960014416.html
